@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dkeeper/static/css/main.33e72e7b.css",
+    "main.js": "/Dkeeper/static/js/main.2ee7f503.js",
+    "index.html": "/Dkeeper/index.html",
+    "main.33e72e7b.css.map": "/Dkeeper/static/css/main.33e72e7b.css.map",
+    "main.2ee7f503.js.map": "/Dkeeper/static/js/main.2ee7f503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33e72e7b.css",
+    "static/js/main.2ee7f503.js"
+  ]
+}
