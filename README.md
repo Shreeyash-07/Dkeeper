@@ -1,7 +1,7 @@
-## Dkeeper 
+# Dkeeper 
 (Decentralized Keeper App using Solidity)
 
-###Steps to recreate app
+##Steps to recreate app
 1. Open the terminal and go to cd smart_contracts
 2. Create your own rinkeby test network (on eg. Alchemy or Infura)
 3. Create .env file in smart_contracts folder
